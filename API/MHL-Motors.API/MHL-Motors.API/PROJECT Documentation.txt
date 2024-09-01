@@ -1,0 +1,9 @@
+﻿// ---- Migrations ---- //
+cd C:\MHL-Motors\API\MHL-Motors.API\
+dotnet ef migrations add MigrationName --project MHL-Motors.DataAccess/MHL-Motors.DataAccess.csproj
+dotnet ef database update --project MHL-Motors.DataAccess/MHL-Motors.DataAccess.csproj
+// --## Migrations ##-- //
+
+// ---- DB Connection for MacOS (TBT)----//
+//optionsBuilder.UseSqlServer("Server=localhost;Database=MHLMotorsDB;User Id=sa;Password=StrongPassword@123;TrustServerCertificate=true");
+// --## DB Connection for MacOS ##--//

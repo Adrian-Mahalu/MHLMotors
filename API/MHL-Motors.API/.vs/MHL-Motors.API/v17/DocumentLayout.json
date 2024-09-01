@@ -1,0 +1,1215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|solutionrelative:mhl-motors.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.api\\controllers\\carmanagementcontrollers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|solutionrelative:mhl-motors.api\\controllers\\carmanagementcontrollers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.api\\controllers\\carmanagementcontrollers\\enginecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|solutionrelative:mhl-motors.api\\controllers\\carmanagementcontrollers\\enginecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.api\\controllers\\carmanagementcontrollers\\generationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|solutionrelative:mhl-motors.api\\controllers\\carmanagementcontrollers\\generationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.api\\controllers\\carmanagementcontrollers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|solutionrelative:mhl-motors.api\\controllers\\carmanagementcontrollers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059AC253-FD7D-4CC1-AEDF-2523E5D91ED1}|MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059AC253-FD7D-4CC1-AEDF-2523E5D91ED1}|MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj|solutionrelative:mhl-motors.automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E43F6B-EB61-4C07-AEF8-EE8F306B7576}|MHL-Motors.Core\\MHL-Motors.Core.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.core\\constants\\cardatabuilderconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E43F6B-EB61-4C07-AEF8-EE8F306B7576}|MHL-Motors.Core\\MHL-Motors.Core.csproj|solutionrelative:mhl-motors.core\\constants\\cardatabuilderconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\datacontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\datacontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.api\\controllers\\carmanagementcontrollers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|solutionrelative:mhl-motors.api\\controllers\\carmanagementcontrollers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.api\\project documentation.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|solutionrelative:mhl-motors.api\\project documentation.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.services\\carservices\\brandservice\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|solutionrelative:mhl-motors.services\\carservices\\brandservice\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510BA287-8A65-4376-A625-6F8B6CE8584C}|MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.databuilders\\databuilders\\cardatabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510BA287-8A65-4376-A625-6F8B6CE8584C}|MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj|solutionrelative:mhl-motors.databuilders\\databuilders\\cardatabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510BA287-8A65-4376-A625-6F8B6CE8584C}|MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.databuilders\\databuilderhelpers\\cardatabuilderhelpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510BA287-8A65-4376-A625-6F8B6CE8584C}|MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj|solutionrelative:mhl-motors.databuilders\\databuilderhelpers\\cardatabuilderhelpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.services\\carservices\\carservice\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|solutionrelative:mhl-motors.services\\carservices\\carservice\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.services\\carservices\\brandservice\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|solutionrelative:mhl-motors.services\\carservices\\brandservice\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.services\\servicehelpers\\carservicehelpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|solutionrelative:mhl-motors.services\\servicehelpers\\carservicehelpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.services\\mhl-motors.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|solutionrelative:mhl-motors.services\\mhl-motors.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.models\\carfactorymodels\\hybridcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|solutionrelative:mhl-motors.models\\carfactorymodels\\hybridcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.models\\cardatamodels\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|solutionrelative:mhl-motors.models\\cardatamodels\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510BA287-8A65-4376-A625-6F8B6CE8584C}|MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.databuilders\\databuildersconstants\\databuilderconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510BA287-8A65-4376-A625-6F8B6CE8584C}|MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj|solutionrelative:mhl-motors.databuilders\\databuildersconstants\\databuilderconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\factories\\carfactory\\typeone\\hydrogencarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\factories\\carfactory\\typeone\\hydrogencarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\factories\\carfactory\\typeone\\hybridcarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\factories\\carfactory\\typeone\\hybridcarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E43F6B-EB61-4C07-AEF8-EE8F306B7576}|MHL-Motors.Core\\MHL-Motors.Core.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.core\\constants\\fueltypeconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E43F6B-EB61-4C07-AEF8-EE8F306B7576}|MHL-Motors.Core\\MHL-Motors.Core.csproj|solutionrelative:mhl-motors.core\\constants\\fueltypeconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.models\\cardatamodels\\carad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|solutionrelative:mhl-motors.models\\cardatamodels\\carad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.services\\carservices\\carservice\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|solutionrelative:mhl-motors.services\\carservices\\carservice\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amahalu\\AppData\\Local\\SourceServer\\454688520d9d664338d4d7a22f642669fdec2ccd052a5c43638ca2d636d05b64\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\repositories\\interfaces\\icarsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\repositories\\interfaces\\icarsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\repositories\\implementations\\carsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\repositories\\implementations\\carsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.models\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|solutionrelative:mhl-motors.models\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amahalu\\AppData\\Local\\SourceServer\\b272678be1a93ec3aa894e82af870985abdd551666dd356200ec4dd11cc80d8e\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ManualResetEventSlim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\repositories\\implementations\\brandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\repositories\\implementations\\brandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.models\\cardatamodels\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|solutionrelative:mhl-motors.models\\cardatamodels\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\repositories\\implementations\\modelsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\repositories\\implementations\\modelsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.services\\carservices\\engineservice\\engineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|solutionrelative:mhl-motors.services\\carservices\\engineservice\\engineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.services\\carservices\\generationservice\\generationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|solutionrelative:mhl-motors.services\\carservices\\generationservice\\generationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.services\\carservices\\modelservice\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|solutionrelative:mhl-motors.services\\carservices\\modelservice\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.services\\carservices\\engineservice\\iengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|solutionrelative:mhl-motors.services\\carservices\\engineservice\\iengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\repositories\\implementations\\enginesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\repositories\\implementations\\enginesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\repositories\\interfaces\\ienginesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\repositories\\interfaces\\ienginesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\repositories\\implementations\\generationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\repositories\\implementations\\generationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\factories\\carfactory\\typeone\\defaultcarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\factories\\carfactory\\typeone\\defaultcarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\factories\\carfactory\\typeone\\electriccarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\factories\\carfactory\\typeone\\electriccarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\factories\\carfactory\\typeone\\idefaultcarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\factories\\carfactory\\typeone\\idefaultcarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\factories\\carfactory\\typeone\\petrolcarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\factories\\carfactory\\typeone\\petrolcarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\factories\\carfactory\\typetwo\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\factories\\carfactory\\typetwo\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\factories\\carfactory\\typetwo\\icarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\factories\\carfactory\\typetwo\\icarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\migrations\\20231015104755_createcoreobjectsforcardata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\migrations\\20231015104755_createcoreobjectsforcardata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\migrations\\20231015104755_createcoreobjectsforcardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\migrations\\20231015104755_createcoreobjectsforcardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\mhl-motors.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\mhl-motors.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amahalu\\AppData\\Local\\SourceServer\\a0e606b7c9dfc7ed33f41c0d8ef8d31fa3c76cf4245eec0dc9b7d6a2d4325902\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|solutionrelative:mhl-motors.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.models\\cardatamodels\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|solutionrelative:mhl-motors.models\\cardatamodels\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.models\\cardatamodels\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|solutionrelative:mhl-motors.models\\cardatamodels\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.models\\cardatamodels\\generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|solutionrelative:mhl-motors.models\\cardatamodels\\generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.services\\carservices\\modelservice\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|solutionrelative:mhl-motors.services\\carservices\\modelservice\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.services\\carservices\\generationservice\\igenerationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DFB308-6D77-47EA-8ADA-849B992579BF}|MHL-Motors.Services\\MHL-Motors.Services.csproj|solutionrelative:mhl-motors.services\\carservices\\generationservice\\igenerationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\repositories\\interfaces\\imodelsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\repositories\\interfaces\\imodelsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\repositories\\interfaces\\ibrandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\repositories\\interfaces\\ibrandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\repositories\\interfaces\\igenerationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\repositories\\interfaces\\igenerationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\mhl-motors.dataaccess\\obj\\mhl-motors.dataaccess.csproj.entityframeworkcore.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\mhl-motors.dataaccess\\obj\\mhl-motors.dataaccess.csproj.entityframeworkcore.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.dataaccess\\mhl-motors.dataaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{91ED01B9-EBA8-4C83-B443-4A2004A3DADB}|MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj|solutionrelative:mhl-motors.dataaccess\\mhl-motors.dataaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|solutionrelative:mhl-motors.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.api\\mhl-motors.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3F88FA9-F425-42A1-B680-36399335A778}|MHL-Motors.API\\MHL-Motors.API.csproj|solutionrelative:mhl-motors.api\\mhl-motors.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.models\\carfactorymodels\\petrolcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|solutionrelative:mhl-motors.models\\carfactorymodels\\petrolcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.models\\carfactorymodels\\hydrogencar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|solutionrelative:mhl-motors.models\\carfactorymodels\\hydrogencar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.models\\carfactorymodels\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|solutionrelative:mhl-motors.models\\carfactorymodels\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|c:\\mhl-motors2\\api\\mhl-motors.api\\mhl-motors.models\\carfactorymodels\\carobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5CEAD1-35EC-4FFB-A0FA-BED8AF931A30}|MHL-Motors.Models\\MHL-Motors.Models.csproj|solutionrelative:mhl-motors.models\\carfactorymodels\\carobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\Controllers\\CarManagementControllers\\CarController.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.API\\Controllers\\CarManagementControllers\\CarController.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\Controllers\\CarManagementControllers\\CarController.cs",
+              "RelativeToolTip": "MHL-Motors.API\\Controllers\\CarManagementControllers\\CarController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\Program.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.API\\Program.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\Program.cs",
+              "RelativeToolTip": "MHL-Motors.API\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\Controllers\\CarManagementControllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.API\\Controllers\\CarManagementControllers\\BrandController.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\Controllers\\CarManagementControllers\\BrandController.cs",
+              "RelativeToolTip": "MHL-Motors.API\\Controllers\\CarManagementControllers\\BrandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EngineController.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\Controllers\\CarManagementControllers\\EngineController.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.API\\Controllers\\CarManagementControllers\\EngineController.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\Controllers\\CarManagementControllers\\EngineController.cs",
+              "RelativeToolTip": "MHL-Motors.API\\Controllers\\CarManagementControllers\\EngineController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwDAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenerationController.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\Controllers\\CarManagementControllers\\GenerationController.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.API\\Controllers\\CarManagementControllers\\GenerationController.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\Controllers\\CarManagementControllers\\GenerationController.cs",
+              "RelativeToolTip": "MHL-Motors.API\\Controllers\\CarManagementControllers\\GenerationController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwB4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelController.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\Controllers\\CarManagementControllers\\ModelController.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.API\\Controllers\\CarManagementControllers\\ModelController.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\Controllers\\CarManagementControllers\\ModelController.cs",
+              "RelativeToolTip": "MHL-Motors.API\\Controllers\\CarManagementControllers\\ModelController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.AutoMappers\\MappingProfile.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MappingProfile.cs",
+              "RelativeToolTip": "MHL-Motors.AutoMappers\\MappingProfile.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBIAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarDataBuilderConstants.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\Constants\\CarDataBuilderConstants.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Core\\Constants\\CarDataBuilderConstants.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\Constants\\CarDataBuilderConstants.cs",
+              "RelativeToolTip": "MHL-Motors.Core\\Constants\\CarDataBuilderConstants.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAQwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\DataContext\\DataContext.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\DataContext\\DataContext.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\DataContext\\DataContext.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\DataContext\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PROJECT Documentation.txt",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\PROJECT Documentation.txt",
+              "RelativeDocumentMoniker": "MHL-Motors.API\\PROJECT Documentation.txt",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\PROJECT Documentation.txt",
+              "RelativeToolTip": "MHL-Motors.API\\PROJECT Documentation.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-01T18:39:34.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\BrandService\\BrandService.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Services\\CarServices\\BrandService\\BrandService.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\BrandService\\BrandService.cs",
+              "RelativeToolTip": "MHL-Motors.Services\\CarServices\\BrandService\\BrandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MHL-Motors.Services.csproj",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\MHL-Motors.Services.csproj",
+              "RelativeDocumentMoniker": "MHL-Motors.Services\\MHL-Motors.Services.csproj",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\MHL-Motors.Services.csproj",
+              "RelativeToolTip": "MHL-Motors.Services\\MHL-Motors.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T18:39:34.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarDataBuilder.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\DataBuilders\\CarDataBuilder.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataBuilders\\DataBuilders\\CarDataBuilder.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\DataBuilders\\CarDataBuilder.cs",
+              "RelativeToolTip": "MHL-Motors.DataBuilders\\DataBuilders\\CarDataBuilder.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarDataModels\\Car.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Models\\CarDataModels\\Car.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarDataModels\\Car.cs",
+              "RelativeToolTip": "MHL-Motors.Models\\CarDataModels\\Car.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarDataBuilderHelperMethods.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\DataBuilderHelpers\\CarDataBuilderHelperMethods.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataBuilders\\DataBuilderHelpers\\CarDataBuilderHelperMethods.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\DataBuilderHelpers\\CarDataBuilderHelperMethods.cs",
+              "RelativeToolTip": "MHL-Motors.DataBuilders\\DataBuilderHelpers\\CarDataBuilderHelperMethods.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAASwOMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\CarService\\CarService.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Services\\CarServices\\CarService\\CarService.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\CarService\\CarService.cs",
+              "RelativeToolTip": "MHL-Motors.Services\\CarServices\\CarService\\CarService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\BrandService\\IBrandService.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Services\\CarServices\\BrandService\\IBrandService.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\BrandService\\IBrandService.cs",
+              "RelativeToolTip": "MHL-Motors.Services\\CarServices\\BrandService\\IBrandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarServiceHelperMethods.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\ServiceHelpers\\CarServiceHelperMethods.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Services\\ServiceHelpers\\CarServiceHelperMethods.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\ServiceHelpers\\CarServiceHelperMethods.cs",
+              "RelativeToolTip": "MHL-Motors.Services\\ServiceHelpers\\CarServiceHelperMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataBuilderConstants.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\DataBuildersConstants\\DataBuilderConstants.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataBuilders\\DataBuildersConstants\\DataBuilderConstants.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\DataBuildersConstants\\DataBuilderConstants.cs",
+              "RelativeToolTip": "MHL-Motors.DataBuilders\\DataBuildersConstants\\DataBuilderConstants.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwA4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HydrogenCarFactory.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\HydrogenCarFactory.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\HydrogenCarFactory.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\HydrogenCarFactory.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\HydrogenCarFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HybridCar.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarFactoryModels\\HybridCar.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Models\\CarFactoryModels\\HybridCar.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarFactoryModels\\HybridCar.cs",
+              "RelativeToolTip": "MHL-Motors.Models\\CarFactoryModels\\HybridCar.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HybridCarFactory.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\HybridCarFactory.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\HybridCarFactory.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\HybridCarFactory.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\HybridCarFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FuelTypeConstants.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\Constants\\FuelTypeConstants.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Core\\Constants\\FuelTypeConstants.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\Constants\\FuelTypeConstants.cs",
+              "RelativeToolTip": "MHL-Motors.Core\\Constants\\FuelTypeConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CarAd.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarDataModels\\CarAd.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Models\\CarDataModels\\CarAd.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarDataModels\\CarAd.cs",
+              "RelativeToolTip": "MHL-Motors.Models\\CarDataModels\\CarAd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\CarService\\ICarService.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Services\\CarServices\\CarService\\ICarService.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\CarService\\ICarService.cs",
+              "RelativeToolTip": "MHL-Motors.Services\\CarServices\\CarService\\ICarService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\amahalu\\AppData\\Local\\SourceServer\\454688520d9d664338d4d7a22f642669fdec2ccd052a5c43638ca2d636d05b64\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\amahalu\\AppData\\Local\\SourceServer\\454688520d9d664338d4d7a22f642669fdec2ccd052a5c43638ca2d636d05b64\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\amahalu\\AppData\\Local\\SourceServer\\454688520d9d664338d4d7a22f642669fdec2ccd052a5c43638ca2d636d05b64\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\amahalu\\AppData\\Local\\SourceServer\\454688520d9d664338d4d7a22f642669fdec2ccd052a5c43638ca2d636d05b64\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAgwLYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-01T09:19:21.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICarsRepository.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Interfaces\\ICarsRepository.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Repositories\\Interfaces\\ICarsRepository.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Interfaces\\ICarsRepository.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Repositories\\Interfaces\\ICarsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CarsRepository.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Implementations\\CarsRepository.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Repositories\\Implementations\\CarsRepository.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Implementations\\CarsRepository.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Repositories\\Implementations\\CarsRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CarDTO.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\DTOs\\CarDTO.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Models\\DTOs\\CarDTO.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\DTOs\\CarDTO.cs",
+              "RelativeToolTip": "MHL-Motors.Models\\DTOs\\CarDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IEngineService.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\EngineService\\IEngineService.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Services\\CarServices\\EngineService\\IEngineService.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\EngineService\\IEngineService.cs",
+              "RelativeToolTip": "MHL-Motors.Services\\CarServices\\EngineService\\IEngineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ModelService.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\ModelService\\ModelService.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Services\\CarServices\\ModelService\\ModelService.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\ModelService\\ModelService.cs",
+              "RelativeToolTip": "MHL-Motors.Services\\CarServices\\ModelService\\ModelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ManualResetEventSlim.cs",
+              "DocumentMoniker": "C:\\Users\\amahalu\\AppData\\Local\\SourceServer\\b272678be1a93ec3aa894e82af870985abdd551666dd356200ec4dd11cc80d8e\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ManualResetEventSlim.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\amahalu\\AppData\\Local\\SourceServer\\b272678be1a93ec3aa894e82af870985abdd551666dd356200ec4dd11cc80d8e\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ManualResetEventSlim.cs",
+              "ToolTip": "C:\\Users\\amahalu\\AppData\\Local\\SourceServer\\b272678be1a93ec3aa894e82af870985abdd551666dd356200ec4dd11cc80d8e\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ManualResetEventSlim.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\amahalu\\AppData\\Local\\SourceServer\\b272678be1a93ec3aa894e82af870985abdd551666dd356200ec4dd11cc80d8e\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ManualResetEventSlim.cs",
+              "ViewState": "AQIAAAMCAAAAAAAAAAAiwD4CAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-01T06:51:25.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BrandsRepository.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Implementations\\BrandsRepository.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Repositories\\Implementations\\BrandsRepository.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Implementations\\BrandsRepository.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Repositories\\Implementations\\BrandsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GenerationService.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\GenerationService\\GenerationService.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Services\\CarServices\\GenerationService\\GenerationService.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\GenerationService\\GenerationService.cs",
+              "RelativeToolTip": "MHL-Motors.Services\\CarServices\\GenerationService\\GenerationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ModelsRepository.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Implementations\\ModelsRepository.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Repositories\\Implementations\\ModelsRepository.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Implementations\\ModelsRepository.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Repositories\\Implementations\\ModelsRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwCMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarDataModels\\Brand.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Models\\CarDataModels\\Brand.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarDataModels\\Brand.cs",
+              "RelativeToolTip": "MHL-Motors.Models\\CarDataModels\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EngineService.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\EngineService\\EngineService.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Services\\CarServices\\EngineService\\EngineService.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\EngineService\\EngineService.cs",
+              "RelativeToolTip": "MHL-Motors.Services\\CarServices\\EngineService\\EngineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EnginesRepository.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Implementations\\EnginesRepository.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Repositories\\Implementations\\EnginesRepository.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Implementations\\EnginesRepository.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Repositories\\Implementations\\EnginesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IEnginesRepository.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Interfaces\\IEnginesRepository.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Repositories\\Interfaces\\IEnginesRepository.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Interfaces\\IEnginesRepository.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Repositories\\Interfaces\\IEnginesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GenerationsRepository.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Implementations\\GenerationsRepository.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Repositories\\Implementations\\GenerationsRepository.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Implementations\\GenerationsRepository.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Repositories\\Implementations\\GenerationsRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ElectricCarFactory.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\ElectricCarFactory.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\ElectricCarFactory.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\ElectricCarFactory.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\ElectricCarFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PetrolCar.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarFactoryModels\\PetrolCar.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Models\\CarFactoryModels\\PetrolCar.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarFactoryModels\\PetrolCar.cs",
+              "RelativeToolTip": "MHL-Motors.Models\\CarFactoryModels\\PetrolCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ICarFactory.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeTwo\\ICarFactory.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeTwo\\ICarFactory.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeTwo\\ICarFactory.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeTwo\\ICarFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DefaultCarFactory.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\DefaultCarFactory.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\DefaultCarFactory.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\DefaultCarFactory.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\DefaultCarFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IDefaultCarFactory.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\IDefaultCarFactory.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\IDefaultCarFactory.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\IDefaultCarFactory.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\IDefaultCarFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PetrolCarFactory.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\PetrolCarFactory.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\PetrolCarFactory.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\PetrolCarFactory.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeOne\\PetrolCarFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CarFactory.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeTwo\\CarFactory.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeTwo\\CarFactory.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeTwo\\CarFactory.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Factories\\CarFactory\\TypeTwo\\CarFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "HydrogenCar.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarFactoryModels\\HydrogenCar.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Models\\CarFactoryModels\\HydrogenCar.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarFactoryModels\\HydrogenCar.cs",
+              "RelativeToolTip": "MHL-Motors.Models\\CarFactoryModels\\HydrogenCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ElectricCar.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarFactoryModels\\ElectricCar.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Models\\CarFactoryModels\\ElectricCar.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarFactoryModels\\ElectricCar.cs",
+              "RelativeToolTip": "MHL-Motors.Models\\CarFactoryModels\\ElectricCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CarObject.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarFactoryModels\\CarObject.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Models\\CarFactoryModels\\CarObject.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarFactoryModels\\CarObject.cs",
+              "RelativeToolTip": "MHL-Motors.Models\\CarFactoryModels\\CarObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAiwIAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20231015104755_CreateCoreObjectsForCarData.Designer.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Migrations\\20231015104755_CreateCoreObjectsForCarData.Designer.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Migrations\\20231015104755_CreateCoreObjectsForCarData.Designer.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Migrations\\20231015104755_CreateCoreObjectsForCarData.Designer.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Migrations\\20231015104755_CreateCoreObjectsForCarData.Designer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwDAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20231015104755_CreateCoreObjectsForCarData.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Migrations\\20231015104755_CreateCoreObjectsForCarData.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Migrations\\20231015104755_CreateCoreObjectsForCarData.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Migrations\\20231015104755_CreateCoreObjectsForCarData.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Migrations\\20231015104755_CreateCoreObjectsForCarData.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwCAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MHL-Motors.DataAccess.csproj",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T18:39:34.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MHL-Motors.API\\appsettings.json",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\appsettings.json",
+              "RelativeToolTip": "MHL-Motors.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T18:39:34.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "WebApplicationBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\amahalu\\AppData\\Local\\SourceServer\\a0e606b7c9dfc7ed33f41c0d8ef8d31fa3c76cf4245eec0dc9b7d6a2d4325902\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\amahalu\\AppData\\Local\\SourceServer\\a0e606b7c9dfc7ed33f41c0d8ef8d31fa3c76cf4245eec0dc9b7d6a2d4325902\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "ToolTip": "C:\\Users\\amahalu\\AppData\\Local\\SourceServer\\a0e606b7c9dfc7ed33f41c0d8ef8d31fa3c76cf4245eec0dc9b7d6a2d4325902\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\amahalu\\AppData\\Local\\SourceServer\\a0e606b7c9dfc7ed33f41c0d8ef8d31fa3c76cf4245eec0dc9b7d6a2d4325902\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAIAwwIIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-17T14:35:13.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarDataModels\\Engine.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Models\\CarDataModels\\Engine.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarDataModels\\Engine.cs",
+              "RelativeToolTip": "MHL-Motors.Models\\CarDataModels\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Generation.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarDataModels\\Generation.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Models\\CarDataModels\\Generation.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarDataModels\\Generation.cs",
+              "RelativeToolTip": "MHL-Motors.Models\\CarDataModels\\Generation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarDataModels\\Model.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Models\\CarDataModels\\Model.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\CarDataModels\\Model.cs",
+              "RelativeToolTip": "MHL-Motors.Models\\CarDataModels\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IGenerationService.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\GenerationService\\IGenerationService.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Services\\CarServices\\GenerationService\\IGenerationService.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\GenerationService\\IGenerationService.cs",
+              "RelativeToolTip": "MHL-Motors.Services\\CarServices\\GenerationService\\IGenerationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IModelService.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\ModelService\\IModelService.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.Services\\CarServices\\ModelService\\IModelService.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\CarServices\\ModelService\\IModelService.cs",
+              "RelativeToolTip": "MHL-Motors.Services\\CarServices\\ModelService\\IModelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IModelsRepository.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Interfaces\\IModelsRepository.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Repositories\\Interfaces\\IModelsRepository.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Interfaces\\IModelsRepository.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Repositories\\Interfaces\\IModelsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IBrandsRepository.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Interfaces\\IBrandsRepository.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Repositories\\Interfaces\\IBrandsRepository.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Interfaces\\IBrandsRepository.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Repositories\\Interfaces\\IBrandsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IGenerationsRepository.cs",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Interfaces\\IGenerationsRepository.cs",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\Repositories\\Interfaces\\IGenerationsRepository.cs",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\Repositories\\Interfaces\\IGenerationsRepository.cs",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\Repositories\\Interfaces\\IGenerationsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:39:34.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "MHL-Motors.DataAccess.csproj.EntityFrameworkCore.targets",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess\\obj\\MHL-Motors.DataAccess.csproj.EntityFrameworkCore.targets",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\MHL-Motors.DataAccess\\obj\\MHL-Motors.DataAccess.csproj.EntityFrameworkCore.targets",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess\\obj\\MHL-Motors.DataAccess.csproj.EntityFrameworkCore.targets",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\MHL-Motors.DataAccess\\obj\\MHL-Motors.DataAccess.csproj.EntityFrameworkCore.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-01T18:39:34.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MHL-Motors.DataAccess",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
+              "RelativeDocumentMoniker": "MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
+              "RelativeToolTip": "MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T18:39:34.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MHL-Motors.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MHL-Motors.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T18:39:34.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "MHL-Motors.API.csproj",
+              "DocumentMoniker": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\MHL-Motors.API.csproj",
+              "RelativeDocumentMoniker": "MHL-Motors.API\\MHL-Motors.API.csproj",
+              "ToolTip": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\MHL-Motors.API.csproj",
+              "RelativeToolTip": "MHL-Motors.API\\MHL-Motors.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T18:39:34.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

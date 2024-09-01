@@ -1,0 +1,12 @@
+C:\MHL-Motors\API\LEAP\LEAP\bin\Debug\net7.0\LEAP.deps.json
+C:\MHL-Motors\API\LEAP\LEAP\bin\Debug\net7.0\LEAP.dll
+C:\MHL-Motors\API\LEAP\LEAP\bin\Debug\net7.0\LEAP.pdb
+C:\MHL-Motors\API\LEAP\LEAP\obj\Debug\net7.0\LEAP.csproj.AssemblyReference.cache
+C:\MHL-Motors\API\LEAP\LEAP\obj\Debug\net7.0\LEAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\MHL-Motors\API\LEAP\LEAP\obj\Debug\net7.0\LEAP.AssemblyInfoInputs.cache
+C:\MHL-Motors\API\LEAP\LEAP\obj\Debug\net7.0\LEAP.AssemblyInfo.cs
+C:\MHL-Motors\API\LEAP\LEAP\obj\Debug\net7.0\LEAP.csproj.CoreCompileInputs.cache
+C:\MHL-Motors\API\LEAP\LEAP\obj\Debug\net7.0\LEAP.dll
+C:\MHL-Motors\API\LEAP\LEAP\obj\Debug\net7.0\refint\LEAP.dll
+C:\MHL-Motors\API\LEAP\LEAP\obj\Debug\net7.0\LEAP.pdb
+C:\MHL-Motors\API\LEAP\LEAP\obj\Debug\net7.0\ref\LEAP.dll

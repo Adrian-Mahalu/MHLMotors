@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MHL-Motors.API.props" />
+</Project>

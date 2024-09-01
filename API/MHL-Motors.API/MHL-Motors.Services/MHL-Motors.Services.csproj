@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>MHL_Motors.Services</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="AdServices\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MHL-Motors.DataAccess\MHL-Motors.DataAccess.csproj" />
+    <ProjectReference Include="..\MHL-Motors.DataBuilders\MHL-Motors.DataBuilders.csproj" />
+    <ProjectReference Include="..\MHL-Motors.Models\MHL-Motors.Models.csproj" />
+  </ItemGroup>
+
+</Project>

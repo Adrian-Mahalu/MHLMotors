@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj": {}
+  },
+  "projects": {
+    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj",
+        "projectName": "MHL-Motors.AutoMappers",
+        "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj",
+        "packagesPath": "C:\\Users\\amahalu\\.nuget\\packages\\",
+        "outputPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amahalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://jfrog-artifacts.its.centric.lan/artifactory/api/nuget/v3/Centric-NuGet-Dev": {},
+          "https://tfs-gda.its.centric.lan/centric-Romania/_packaging/centric-infrastructure/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj": {
+                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj"
+              },
+              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
+                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj",
+        "projectName": "MHL-Motors.Core",
+        "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj",
+        "packagesPath": "C:\\Users\\amahalu\\.nuget\\packages\\",
+        "outputPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amahalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://jfrog-artifacts.its.centric.lan/artifactory/api/nuget/v3/Centric-NuGet-Dev": {},
+          "https://tfs-gda.its.centric.lan/centric-Romania/_packaging/centric-infrastructure/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj",
+        "projectName": "MHL-Motors.DataBuilders",
+        "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj",
+        "packagesPath": "C:\\Users\\amahalu\\.nuget\\packages\\",
+        "outputPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amahalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://jfrog-artifacts.its.centric.lan/artifactory/api/nuget/v3/Centric-NuGet-Dev": {},
+          "https://tfs-gda.its.centric.lan/centric-Romania/_packaging/centric-infrastructure/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj": {
+                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj"
+              },
+              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj": {
+                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj"
+              },
+              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
+                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj",
+        "projectName": "MHL-Motors.Models",
+        "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj",
+        "packagesPath": "C:\\Users\\amahalu\\.nuget\\packages\\",
+        "outputPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amahalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://jfrog-artifacts.its.centric.lan/artifactory/api/nuget/v3/Centric-NuGet-Dev": {},
+          "https://tfs-gda.its.centric.lan/centric-Romania/_packaging/centric-infrastructure/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
