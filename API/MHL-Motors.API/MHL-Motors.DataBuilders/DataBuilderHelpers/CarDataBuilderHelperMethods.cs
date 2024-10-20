@@ -12,7 +12,7 @@ namespace MHL_Motors.DataBuilders.DataBuilderHelpers
     {
         public static string[] GetCarsFilePaths()
         {
-            return Directory.GetFiles("C:\\MHL-Motors\\Data");
+            return Directory.GetFiles("C:\\MHLMotors\\Data");
         }
         public static Car SetCarContentFileTabs(Dictionary<string, string> CarSpecValueDictionary, Car car)
         {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\MHL-Motors.API.csproj": {}
+    "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.API\\MHL-Motors.API.csproj": {}
   },
   "projects": {
-    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\MHL-Motors.API.csproj": {
+    "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.API\\MHL-Motors.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\MHL-Motors.API.csproj",
+        "projectUniqueName": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.API\\MHL-Motors.API.csproj",
         "projectName": "MHL-Motors.API",
-        "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\MHL-Motors.API.csproj",
+        "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.API\\MHL-Motors.API.csproj",
         "packagesPath": "C:\\Users\\amahalu\\.nuget\\packages\\",
-        "outputPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.API\\obj\\",
+        "outputPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amahalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -30,11 +30,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj": {
-                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj"
+              "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj": {
+                "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj"
               },
-              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\MHL-Motors.Services.csproj": {
-                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\MHL-Motors.Services.csproj"
+              "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Services\\MHL-Motors.Services.csproj": {
+                "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Services\\MHL-Motors.Services.csproj"
               }
             }
           }
@@ -54,13 +54,29 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.12, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.5.0, )"
+              "version": "[6.9.0, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "System.Formats.Asn1": {
+              "target": "Package",
+              "version": "[6.0.1, )"
             }
           },
           "imports": [
@@ -86,14 +102,14 @@
         }
       }
     },
-    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj": {
+    "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj",
+        "projectUniqueName": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj",
         "projectName": "MHL-Motors.AutoMappers",
-        "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj",
+        "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj",
         "packagesPath": "C:\\Users\\amahalu\\.nuget\\packages\\",
-        "outputPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\obj\\",
+        "outputPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amahalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,11 +128,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj": {
-                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj"
+              "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj": {
+                "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj"
               },
-              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
-                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj"
+              "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
+                "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj"
               }
             }
           }
@@ -161,14 +177,14 @@
         }
       }
     },
-    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj": {
+    "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj",
+        "projectUniqueName": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj",
         "projectName": "MHL-Motors.Core",
-        "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj",
+        "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj",
         "packagesPath": "C:\\Users\\amahalu\\.nuget\\packages\\",
-        "outputPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\obj\\",
+        "outputPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amahalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -223,14 +239,14 @@
         }
       }
     },
-    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj": {
+    "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
+        "projectUniqueName": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
         "projectName": "MHL-Motors.DataAccess",
-        "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
+        "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
         "packagesPath": "C:\\Users\\amahalu\\.nuget\\packages\\",
-        "outputPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\obj\\",
+        "outputPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amahalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -249,8 +265,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
-                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj"
+              "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
+                "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj"
               }
             }
           }
@@ -327,14 +343,14 @@
         }
       }
     },
-    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj": {
+    "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj",
+        "projectUniqueName": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj",
         "projectName": "MHL-Motors.DataBuilders",
-        "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj",
+        "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj",
         "packagesPath": "C:\\Users\\amahalu\\.nuget\\packages\\",
-        "outputPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\obj\\",
+        "outputPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amahalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -353,14 +369,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj": {
-                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj"
+              "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj": {
+                "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.AutoMappers\\MHL-Motors.AutoMappers.csproj"
               },
-              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj": {
-                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj"
+              "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj": {
+                "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj"
               },
-              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
-                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj"
+              "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
+                "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj"
               }
             }
           }
@@ -405,14 +421,14 @@
         }
       }
     },
-    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
+    "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj",
+        "projectUniqueName": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj",
         "projectName": "MHL-Motors.Models",
-        "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj",
+        "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj",
         "packagesPath": "C:\\Users\\amahalu\\.nuget\\packages\\",
-        "outputPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\obj\\",
+        "outputPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amahalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -467,14 +483,14 @@
         }
       }
     },
-    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\MHL-Motors.Services.csproj": {
+    "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Services\\MHL-Motors.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\MHL-Motors.Services.csproj",
+        "projectUniqueName": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Services\\MHL-Motors.Services.csproj",
         "projectName": "MHL-Motors.Services",
-        "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\MHL-Motors.Services.csproj",
+        "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Services\\MHL-Motors.Services.csproj",
         "packagesPath": "C:\\Users\\amahalu\\.nuget\\packages\\",
-        "outputPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\obj\\",
+        "outputPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amahalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -493,14 +509,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj": {
-                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj"
+              "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj": {
+                "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj"
               },
-              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj": {
-                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj"
+              "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj": {
+                "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataBuilders\\MHL-Motors.DataBuilders.csproj"
               },
-              "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
-                "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj"
+              "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
+                "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj"
               }
             }
           }

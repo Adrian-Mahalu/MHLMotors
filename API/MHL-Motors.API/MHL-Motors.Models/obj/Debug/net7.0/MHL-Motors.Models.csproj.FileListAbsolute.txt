@@ -21,3 +21,15 @@ C:\MHL-Motors2\API\MHL-Motors.API\MHL-Motors.Models\obj\Debug\net7.0\MHL-Motors.
 C:\MHL-Motors2\API\MHL-Motors.API\MHL-Motors.Models\obj\Debug\net7.0\refint\MHL-Motors.Models.dll
 C:\MHL-Motors2\API\MHL-Motors.API\MHL-Motors.Models\obj\Debug\net7.0\MHL-Motors.Models.pdb
 C:\MHL-Motors2\API\MHL-Motors.API\MHL-Motors.Models\obj\Debug\net7.0\ref\MHL-Motors.Models.dll
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Models\bin\Debug\net7.0\MHL-Motors.Models.deps.json
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Models\bin\Debug\net7.0\MHL-Motors.Models.dll
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Models\bin\Debug\net7.0\MHL-Motors.Models.pdb
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Models\obj\Debug\net7.0\MHL-Motors.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Models\obj\Debug\net7.0\MHL-Motors.Models.AssemblyInfoInputs.cache
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Models\obj\Debug\net7.0\MHL-Motors.Models.AssemblyInfo.cs
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Models\obj\Debug\net7.0\MHL-Motors.Models.csproj.CoreCompileInputs.cache
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Models\obj\Debug\net7.0\MHL-Motors.Models.sourcelink.json
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Models\obj\Debug\net7.0\MHL-Motors.Models.dll
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Models\obj\Debug\net7.0\refint\MHL-Motors.Models.dll
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Models\obj\Debug\net7.0\MHL-Motors.Models.pdb
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Models\obj\Debug\net7.0\ref\MHL-Motors.Models.dll

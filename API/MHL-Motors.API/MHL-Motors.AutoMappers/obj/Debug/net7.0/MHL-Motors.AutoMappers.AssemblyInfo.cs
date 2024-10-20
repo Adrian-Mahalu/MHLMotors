@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MHL-Motors.AutoMappers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82d3fcab3149f494dcb2402e54d80ad49c737df5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MHL-Motors.AutoMappers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MHL-Motors.AutoMappers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

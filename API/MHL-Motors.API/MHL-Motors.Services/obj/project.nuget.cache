@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TnpG+5ke8ChOi9Hk7B/otb3iIrmI4BQ0yZtpCQ/pK3qAtp8rcQQdfzG2f527T15pbJb4yRqBMvyJoowsmmrtcQ==",
+  "dgSpecHash": "C+Ccl1VqB+riEqrp5Y4sqbxENliBAkHlsttMeqas2EB0/Aigq1MKd2jckQiWefHMs0hqoTAN4v278GEfubr14g==",
   "success": true,
-  "projectFilePath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Services\\MHL-Motors.Services.csproj",
+  "projectFilePath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Services\\MHL-Motors.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amahalu\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\amahalu\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

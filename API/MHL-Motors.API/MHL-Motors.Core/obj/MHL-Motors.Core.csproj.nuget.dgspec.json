@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj": {}
+    "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj": {}
   },
   "projects": {
-    "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj": {
+    "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj",
+        "projectUniqueName": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj",
         "projectName": "MHL-Motors.Core",
-        "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj",
+        "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj",
         "packagesPath": "C:\\Users\\amahalu\\.nuget\\packages\\",
-        "outputPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\obj\\",
+        "outputPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amahalu\\AppData\\Roaming\\NuGet\\NuGet.Config",

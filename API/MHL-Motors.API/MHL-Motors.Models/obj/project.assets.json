@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj",
+      "projectUniqueName": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj",
       "projectName": "MHL-Motors.Models",
-      "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj",
+      "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj",
       "packagesPath": "C:\\Users\\amahalu\\.nuget\\packages\\",
-      "outputPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\obj\\",
+      "outputPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amahalu\\AppData\\Roaming\\NuGet\\NuGet.Config",

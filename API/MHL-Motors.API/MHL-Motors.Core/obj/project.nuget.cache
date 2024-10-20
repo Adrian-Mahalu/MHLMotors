@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aLl7ecK1rZ0dp8WAJf+KtN1LlxU2he1e6KSH6GVAmiKMCNZ8EgJN1ebYn55seXtXJGmOuA7qQvL3jaBslE/n9Q==",
+  "dgSpecHash": "RmnQEo2OOFsSy9f5E5/lZ3H4Bei3g16FnxOqZTK98GuP6TU1tTcwUncdasBMWzK/W5qmMqxCSjGKlW2yBaR35g==",
   "success": true,
-  "projectFilePath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj",
+  "projectFilePath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Core\\MHL-Motors.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,5 +1,6 @@
 ﻿using MHL_Motors.Models.CarDataModels;
 using MHL_Motors.Services.CarServices;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MHL_Motors.API.Controllers.CarManagementControllers
@@ -15,7 +16,7 @@ namespace MHL_Motors.API.Controllers.CarManagementControllers
             _brandService = brandService;
         }
 
-        [HttpGet("GetAllBrandsAsync")]
+        [HttpGet("GetAllBrandsAsync"), Authorize(Roles = "Admin,User")]
         public async Task<ActionResult<List<Brand>>> GetAllBrandsAsync()
         {
             var result = await _brandService.GetAllBrandsAsync();

@@ -2943,11 +2943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
+      "projectUniqueName": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
       "projectName": "MHL-Motors.DataAccess",
-      "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
+      "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
       "packagesPath": "C:\\Users\\amahalu\\.nuget\\packages\\",
-      "outputPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\obj\\",
+      "outputPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amahalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2966,8 +2966,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
-              "projectPath": "C:\\MHL-Motors2\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj"
+            "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj": {
+              "projectPath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.Models\\MHL-Motors.Models.csproj"
             }
           }
         }
