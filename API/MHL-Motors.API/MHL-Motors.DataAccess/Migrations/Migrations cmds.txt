@@ -1,0 +1,2 @@
+﻿dotnet ef migrations add MigrationName --project MHL-Motors.DataAccess/MHL-Motors.DataAccess.csproj
+dotnet ef database update --project MHL-Motors.DataAccess/MHL-Motors.DataAccess.csproj

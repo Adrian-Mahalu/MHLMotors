@@ -36,6 +36,12 @@ C:\MHL-Motors2\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-M
 C:\MHL-Motors2\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\refint\MHL-Motors.DataBuilders.dll
 C:\MHL-Motors2\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Motors.DataBuilders.pdb
 C:\MHL-Motors2\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\ref\MHL-Motors.DataBuilders.dll
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Motors.DataBuilders.csproj.AssemblyReference.cache
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Motors.DataBuilders.GeneratedMSBuildEditorConfig.editorconfig
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Motors.DataBuilders.AssemblyInfoInputs.cache
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Motors.DataBuilders.AssemblyInfo.cs
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Motors.DataBuilders.csproj.CoreCompileInputs.cache
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Motors.DataBuilders.sourcelink.json
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\bin\Debug\net7.0\MHL-Motors.DataBuilders.deps.json
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\bin\Debug\net7.0\MHL-Motors.DataBuilders.dll
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\bin\Debug\net7.0\MHL-Motors.DataBuilders.pdb
@@ -45,12 +51,6 @@ C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\bin\Debug\net7.0\MHL-Mot
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\bin\Debug\net7.0\MHL-Motors.AutoMappers.pdb
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\bin\Debug\net7.0\MHL-Motors.Core.pdb
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\bin\Debug\net7.0\MHL-Motors.Models.pdb
-C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Motors.DataBuilders.csproj.AssemblyReference.cache
-C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Motors.DataBuilders.GeneratedMSBuildEditorConfig.editorconfig
-C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Motors.DataBuilders.AssemblyInfoInputs.cache
-C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Motors.DataBuilders.AssemblyInfo.cs
-C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Motors.DataBuilders.csproj.CoreCompileInputs.cache
-C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Motors.DataBuilders.sourcelink.json
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Moto.B194471B.Up2Date
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\MHL-Motors.DataBuilders.dll
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.DataBuilders\obj\Debug\net7.0\refint\MHL-Motors.DataBuilders.dll

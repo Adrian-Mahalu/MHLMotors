@@ -16,7 +16,7 @@ namespace MHL_Motors.API.Controllers.CarManagementControllers
             _brandService = brandService;
         }
 
-        [HttpGet("GetAllBrandsAsync"), Authorize(Roles = "Admin,User")]
+        [HttpGet("GetAllBrandsAsync"), Authorize(Roles = "Admin,userRole")]
         public async Task<ActionResult<List<Brand>>> GetAllBrandsAsync()
         {
             var result = await _brandService.GetAllBrandsAsync();

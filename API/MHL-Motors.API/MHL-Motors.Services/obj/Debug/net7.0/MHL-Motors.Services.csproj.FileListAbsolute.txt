@@ -44,6 +44,12 @@ C:\MHL-Motors2\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motor
 C:\MHL-Motors2\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\refint\MHL-Motors.Services.dll
 C:\MHL-Motors2\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motors.Services.pdb
 C:\MHL-Motors2\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\ref\MHL-Motors.Services.dll
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motors.Services.csproj.AssemblyReference.cache
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motors.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motors.Services.AssemblyInfoInputs.cache
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motors.Services.AssemblyInfo.cs
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motors.Services.csproj.CoreCompileInputs.cache
+C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motors.Services.sourcelink.json
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\bin\Debug\net7.0\MHL-Motors.Services.deps.json
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\bin\Debug\net7.0\MHL-Motors.Services.dll
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\bin\Debug\net7.0\MHL-Motors.Services.pdb
@@ -57,12 +63,6 @@ C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\bin\Debug\net7.0\MHL-Motors.
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\bin\Debug\net7.0\MHL-Motors.Models.pdb
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\bin\Debug\net7.0\MHL-Motors.AutoMappers.pdb
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\bin\Debug\net7.0\MHL-Motors.Core.pdb
-C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motors.Services.csproj.AssemblyReference.cache
-C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motors.Services.GeneratedMSBuildEditorConfig.editorconfig
-C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motors.Services.AssemblyInfoInputs.cache
-C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motors.Services.AssemblyInfo.cs
-C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motors.Services.csproj.CoreCompileInputs.cache
-C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motors.Services.sourcelink.json
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Moto.8C7450A7.Up2Date
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\MHL-Motors.Services.dll
 C:\MHLMotors\API\MHL-Motors.API\MHL-Motors.Services\obj\Debug\net7.0\refint\MHL-Motors.Services.dll

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace MHL_Motors.Models.DTOs
+namespace MHL_Motors.Models.CarDTOs
 {
     [NotMapped]
     public class CarDTO

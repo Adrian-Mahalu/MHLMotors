@@ -1,4 +1,6 @@
 ﻿using MHL_Motors.Models;
+using MHL_Motors.Models.DTOs;
+using MHL_Motors.Models.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
@@ -12,61 +14,28 @@ namespace MHL_Motors.API.Controllers
     [ApiController]
     public class AuthController : ControllerBase
     {
-        public static User user = new User();
-        private readonly IConfiguration _configuration;
+        private readonly IUser _user;
+        
 
-        public AuthController(IConfiguration configuration)
+        public AuthController(IUser user)
         {
-            _configuration = configuration;
+            _user = user;
         }
 
         [HttpPost("register")]
-        public ActionResult<User> Register(UserDto request)
+        public async Task<ActionResult<RegistrationResponse>> Register(RegisterUserDto registerUserDTO)
         {
-            string passwordHash = BCrypt.Net.BCrypt.HashPassword(request.Password);
+            var result = await _user.RegisterUserAsync(registerUserDTO);
 
-            user.UserName = request.Username;
-            user.PasswordHash = passwordHash;
-
-            return Ok(user);
+            return Ok(result);
         }
 
         [HttpPost("login")]
-        public ActionResult<User> Login(UserDto request)
+        public async Task<ActionResult<LoginResponse>> Login(LoginUserDto loginUserDTO)
         {
-            if(user.UserName != request.Username)
-            {
-                return BadRequest("User not found");
-            }
+            var result = await _user.LoginUserAsync(loginUserDTO);
 
-            if(!BCrypt.Net.BCrypt.Verify(request.Password, user.PasswordHash))
-            {
-                return BadRequest("Wrong password");
-            }
-
-            string token = CreateToken(user);
-
-            return Ok(token);
-        }
-
-        private string CreateToken(User user)
-        {
-            List<Claim> claims = new List<Claim> {
-                new Claim(ClaimTypes.Name, user.UserName)
-            };
-
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration.GetSection("AppSettings:Token").Value!));
-            var credentials = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
-            
-            var token = new JwtSecurityToken(
-                claims: claims,
-                expires: DateTime.Now.AddDays(1),
-                signingCredentials: credentials
-                );
-
-            var jwt = new JwtSecurityTokenHandler().WriteToken(token);
-
-            return jwt;
+            return Ok(result);
         }
     }
 }

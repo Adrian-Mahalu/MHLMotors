@@ -1,5 +1,7 @@
-﻿using MHL_Motors.Models.CarDataModels;
+﻿using MHL_Motors.Models;
+using MHL_Motors.Models.CarDataModels;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection.Metadata;
 
 namespace MHL_Motors.DataAccess.DatabaseContext
 {
@@ -31,5 +33,6 @@ namespace MHL_Motors.DataAccess.DatabaseContext
         public DbSet<Model> Models { get; set; }
         public DbSet<Generation> Generations { get; set; }
         public DbSet<Engine> Engines { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

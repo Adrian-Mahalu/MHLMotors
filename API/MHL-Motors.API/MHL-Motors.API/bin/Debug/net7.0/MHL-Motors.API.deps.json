@@ -660,6 +660,7 @@
       },
       "MHL-Motors.DataAccess/1.0.0": {
         "dependencies": {
+          "BCrypt.Net-Next": "4.0.3",
           "Dapper": "2.1.11",
           "MHL-Motors.Models": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.12",

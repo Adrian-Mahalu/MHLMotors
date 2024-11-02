@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tXqjJ7x1SUiKB98xXk0sH6r2qW8foi05+c7PnUEeAxjzeQMznSItry6DjIPLDURsqEvGBBaA1ziwQFX5W26Xyw==",
+  "dgSpecHash": "Zl83F9yVwmrjLuotMPASUST2vMY5pCv13dv3EHa0RCYTux/H/YVDdKb4pLnrOvy+mU69Qr/OqYIPa1eTw3jyeQ==",
   "success": true,
   "projectFilePath": "C:\\MHLMotors\\API\\MHL-Motors.API\\MHL-Motors.DataAccess\\MHL-Motors.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amahalu\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\amahalu\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\amahalu\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\amahalu\\.nuget\\packages\\dapper\\2.1.11\\dapper.2.1.11.nupkg.sha512",
     "C:\\Users\\amahalu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\amahalu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

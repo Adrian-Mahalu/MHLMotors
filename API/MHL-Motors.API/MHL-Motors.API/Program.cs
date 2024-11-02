@@ -3,6 +3,7 @@ using MHL_Motors.DataAccess.Factories.CarFactories.TypeTwo;
 using MHL_Motors.DataAccess.Repositories.Implementations;
 using MHL_Motors.DataAccess.Repositories.Interfaces;
 using MHL_Motors.DataAccess.UnitOfWork;
+using MHL_Motors.Models.Interfaces;
 using MHL_Motors.Services.CarServices;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Data.SqlClient;
@@ -63,6 +64,7 @@ builder.Services.AddTransient<IBrandsRepository, BrandsRepository>();
 builder.Services.AddTransient<IGenerationsRepository, GenerationsRepository>();
 builder.Services.AddTransient<IModelsRepository, ModelsRepository>();
 builder.Services.AddTransient<IEnginesRepository, EnginesRepository>();
+builder.Services.AddTransient<IUser, UserRepository>();
 // SERVICES
 builder.Services.AddTransient<ICarService, CarService>();
 builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
